@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+  }
+  
+  .Nav {
+    width: 100%;
+    margin: 16px auto;
+    border-bottom: 3px solid rgb(192, 226, 39);
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(225, 240, 14);
+    color: rgb(16, 167, 236);
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .NavTitle {
+    color: rgb(170, 201, 219);
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .NavInstructions {
+    color: rgb(207, 218, 233);
+    font-size: 15px;
+  }
